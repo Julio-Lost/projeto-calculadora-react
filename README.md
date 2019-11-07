@@ -1,6 +1,6 @@
 Um projeto realizado pelo curso da Cod3r, onde o projeto deveria ser feito em React.js + Css. O professor instruiu no processo de construção do projeto, porem deixou o desafio de terminar a calculadora com um (switch) ao invés de usar (eval).
 
-
+<img>https://a.imagem.app/MbBOb.jpg</img>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

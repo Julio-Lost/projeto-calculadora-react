@@ -1,4 +1,4 @@
-Um projeto realizado pelo curso da Cod3r, onde o projeto deveria ser feito em React.js + Css. O professor instruiu no processo de construção do projeto, porem deixou o desafio de terminar a calculadora com um (swtich) ao invés de usar (eval).
+Um projeto realizado pelo curso da Cod3r, onde o projeto deveria ser feito em React.js + Css. O professor instruiu no processo de construção do projeto, porem deixou o desafio de terminar a calculadora com um (switch) ao invés de usar (eval).
 
 
 

@@ -1,7 +1,7 @@
 ![Sem título](https://user-images.githubusercontent.com/53799397/68352551-88bfbf80-00e5-11ea-9b0a-fd00b7ea1eba.jpg)
 
 
-Um projeto realizado pelo curso da Cod3r, onde o projeto deveria ser feito em React.js + Css. O professor instruiu no processo de construção do projeto, porem deixou o desafio de terminar a calculadora com um (switch) ao invés de usar (eval).
+Um projeto realizado pelo curso da Cod3r(React + Redux), onde o projeto deveria ser feito em React.js + Css. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
